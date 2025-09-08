@@ -1,0 +1,14 @@
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\bin\Debug\net8.0\8.9.25.exe
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\bin\Debug\net8.0\8.9.25.deps.json
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\bin\Debug\net8.0\8.9.25.runtimeconfig.json
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\bin\Debug\net8.0\8.9.25.dll
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\bin\Debug\net8.0\8.9.25.pdb
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.AssemblyInfoInputs.cache
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.AssemblyInfo.cs
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.csproj.CoreCompileInputs.cache
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.dll
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\refint\8.9.25.dll
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.pdb
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\8.9.25.genruntimeconfig.cache
+C:\Users\yusuftm\Desktop\8.9.25\8.9.25\obj\Debug\net8.0\ref\8.9.25.dll
