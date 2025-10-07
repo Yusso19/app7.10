@@ -23,8 +23,10 @@ namespace App7._10._25.Models
             {
                 throw new ProductCountIsZeroException("Product count is zero");
             }
-
-            }
+            Count--;
+            TotalPrice += Price;
+            Console.WriteLine("Book sold successfully");
+        }
 
         public override void ShowInfo()
         {

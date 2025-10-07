@@ -1,0 +1,15 @@
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\bin\Debug\net8.0\App7.10.25.exe
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\bin\Debug\net8.0\App7.10.25.deps.json
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\bin\Debug\net8.0\App7.10.25.runtimeconfig.json
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\bin\Debug\net8.0\App7.10.25.dll
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\bin\Debug\net8.0\App7.10.25.pdb
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.AssemblyInfoInputs.cache
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.AssemblyInfo.cs
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.csproj.CoreCompileInputs.cache
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.sourcelink.json
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.dll
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\refint\App7.10.25.dll
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.pdb
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\App7.10.25.genruntimeconfig.cache
+C:\Users\gudtr\source\repos\Yusso19\app7.10\App7.10.25\App7.10.25\obj\Debug\net8.0\ref\App7.10.25.dll

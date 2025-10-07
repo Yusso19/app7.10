@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\gudtr\Desktop\LabLAbdabdab.cs" Link="LabLAbdabdab.cs" />
+  </ItemGroup>
+
 </Project>
